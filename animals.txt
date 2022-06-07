@@ -11,3 +11,7 @@ Dog
 Cow
 Snake
 Peacock
+Fish
+Insects
+Crocodile
+Panda
