@@ -15,3 +15,5 @@ Fish
 Insects
 Crocodile
 Panda
+Deer
+Donkey
