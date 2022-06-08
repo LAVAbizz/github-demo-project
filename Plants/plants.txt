@@ -4,3 +4,5 @@ Jade
 Bamboo
 Cactus
 Orchid
+calendula
+mariegold
