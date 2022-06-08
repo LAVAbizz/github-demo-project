@@ -4,3 +4,8 @@ seeds
 water 
 saplings
 branches
+
+leaves
+stems
+green
+pigments
