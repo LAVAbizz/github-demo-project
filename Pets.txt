@@ -2,6 +2,3 @@ cats
 Dogs
 Fish
 Parrot
-
-lizard
-pigs
