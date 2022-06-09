@@ -17,3 +17,6 @@ Crocodile
 Panda
 Deer
 Donkey
+1
+2
+3
