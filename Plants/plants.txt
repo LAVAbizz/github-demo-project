@@ -6,3 +6,7 @@ Cactus
 Orchid
 calendula
 mariegold
+
+banyan
+cauliflower
+Tomato
