@@ -2,8 +2,3 @@ cats
 Dogs
 Fish
 Parrot
-
-lizard
-pigs
-goats
-ok then
